@@ -18,4 +18,4 @@ springboot 2.0起步脚手架，开箱即用。
 - 修改mvc里面resources的配置文件内容
 - 运行mvc里面的McApplication.java
 - 代码自动生成在mvc里面的test下，自行修改对应的表
-- http://127.0.0.1:8000/doc.html
+- api: http://127.0.0.1:8000/doc.html
